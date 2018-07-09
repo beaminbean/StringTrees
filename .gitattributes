@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-demo/* linguist-vendored
+#demo/* linguist-vendored
+Samples/** linguist-documentation=false
